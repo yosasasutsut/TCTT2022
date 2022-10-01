@@ -17,10 +17,13 @@ Writeup thailand cyber top talent 2022 ระดับประชาชนท�
 > https://github.com/yosasasutsut/TCTT2022/blob/main/forensic-challenge01.zip
 > ### Forensic-challenge02
 > Our good agent receives a suspicious file but cannot open it. Could you help our good agent investigate the file?
+> https://github.com/yosasasutsut/TCTT2022/blob/main/forensic-challenge02.zip
 > ### Forensic-challenge03
 > Our good agent intercept an image of an ancient time teller. Are you wonder what it is trying to tell? Maybe, is shift button working?
+> https://github.com/yosasasutsut/TCTT2022/blob/main/forensic-challenge03.zip
 > ### Forensic-challenge04
 > Our good agent is a bad singer but he loves to sing. Could you help him with the signing and surely everything is connected
+> https://github.com/yosasasutsut/TCTT2022/blob/main/forensic-challenge04.zip
 > ### Forensic-challenge05
 > Our good agent receive an evidence but still has not yet cracked the case and time is running out. Could you help?
 > download file
