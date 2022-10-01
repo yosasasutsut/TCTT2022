@@ -73,6 +73,7 @@ Writeup thailand cyber top talent 2022 ระดับประชาชนท�
 
 > # Cryptography
 > ### Crypto-challenge01
+> ![chart](https://user-images.githubusercontent.com/17229719/193413041-a4ed633a-4749-4576-855d-69f77e1fe820.png)
 > ### Crypto-challenge02
 > ### Crypto-challenge03
 > ### Crypto-challenge04
